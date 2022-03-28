@@ -1,9 +1,9 @@
 spring:
   datasource:
-    password: system
-    username: root
-    url: jdbc:mysql://localhost:3306/fornecedor
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: tIHppntOopTSh2tA
+    username: camarar
+    url: jdbc:mongodb://cluster0.znco0.mongodb.net/crud
+    driver-class-name: com.mysqcom.dbschema.MongoDbJdbcDriver
   jpa:
     hibernate:
       ddl-auto: update
