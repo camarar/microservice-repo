@@ -6,7 +6,7 @@ spring:
       host: cluster0.znco0.mongodb.net
       password: tIHppntOopTSh2tA
       username: camarar
-      uri: mongodb://cluster0.znco0.mongodb.net/crud
+      uri: mongodb://camarar:tIHppntOopTSh2tA@cluster0.znco0.mongodb.net/crud
 #  datasource:
 #    password: tIHppntOopTSh2tA
 #    username: camarar
