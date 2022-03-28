@@ -1,6 +1,9 @@
 spring:
   data:
     mongodb:
+      database: crud
+      port: 27017
+      host: cluster0.znco0.mongodb.net
       password: tIHppntOopTSh2tA
       username: camarar
       uri: mongodb://cluster0.znco0.mongodb.net/crud
