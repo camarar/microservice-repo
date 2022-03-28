@@ -1,12 +1,12 @@
 spring:
   data:
     mongodb:
-      database: crud
-      port: 27017
-      host: cluster0.znco0.mongodb.net
-      password: tIHppntOopTSh2tA
-      username: camarar
-#      uri: mongodb://camarar:tIHppntOopTSh2tA@cluster0.znco0.mongodb.net/crud
+#      database: crud
+#      port: 27017
+#      host: cluster0.znco0.mongodb.net
+#      password: tIHppntOopTSh2tA
+#      username: camarar
+      uri: mongodb://camarar:tIHppntOopTSh2tA@cluster0.znco0.mongodb.net/crud
       repositories:
         enabled: true
 #  datasource:
